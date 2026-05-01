@@ -7,7 +7,7 @@ I'm Ji, a Software Engineer in United States.\
 Depending on the request, I build and develop necessary programs for usage.
 
 
-I used Java and C++ before but currently I'm learn/working on python based projects more.
+I used Java and C++ before but currently I'm learning/working on python based projects more.
 <!--
 **jykcs95/jykcs95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
