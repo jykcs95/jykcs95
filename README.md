@@ -4,7 +4,7 @@ I am a software developer currently focused on building and making a usable prog
 
 ### 🔭 Currently Working On
 - **Electrochemical Data Suite:** Python-based GUI tools for parsing and truncating Gamry `.dta` datasets for researchers at **Argonne National Laboratory**.
-- Python and AI coding such as Github Copilot and Claude Code
+- Integrating AI coding softwares such as Github Copilot and Claude Code to programming. 
 
 ### 🛠️ Tech Stack & Skills
 - **Languages:** Python, SQL, Java, C++, JavaScript
