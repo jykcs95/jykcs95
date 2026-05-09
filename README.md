@@ -1,24 +1,15 @@
-## Hey there 👋
+# Hi there, I'm Ji👋
 
+I am a software developer currently focused on bridging academic metadata with high-performance experimental data analysis.
 
-I'm Ji, a Software Engineer in United States.\
+### 🔭 Currently Working On
+- **Electrochemical Data Suite:** Python-based GUI tools for parsing and truncating Gamry `.dta` datasets for researchers at **Argonne National Laboratory**.
+- Python and AI coding such as Github Copilot and Claude Code
 
+### 🛠️ Tech Stack & Skills
+- **Languages:** Python, SQL, Java, C++, JavaScript
+- **Data & Analysis:** Pandas, NumPy, Matplotlib, SQL queries
+- **Web & APIs:** REST APIs, JSON Parsing, GitHub Actions
 
-Depending on the request, I build and develop necessary programs for usage.
-
-
-I used Java and C++ before but currently I'm learning/working on python based projects more.
-<!--
-**jykcs95/jykcs95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me:
+- LinkedIn: 
