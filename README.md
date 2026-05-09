@@ -1,6 +1,6 @@
 # Hi there, I'm Ji👋
 
-I am a software developer currently focused on bridging academic metadata with high-performance experimental data analysis.
+I am a software developer currently focused on building and making a usable program for those in need
 
 ### 🔭 Currently Working On
 - **Electrochemical Data Suite:** Python-based GUI tools for parsing and truncating Gamry `.dta` datasets for researchers at **Argonne National Laboratory**.
