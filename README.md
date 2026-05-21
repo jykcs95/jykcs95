@@ -9,7 +9,7 @@ I am a software developer currently focused on building and making a usable prog
 ### 🛠️ Tech Stack & Skills
 - **Languages:** Python, SQL, Java, C++, JavaScript
 - **Data & Analysis:** Pandas, NumPy, Matplotlib, SQL queries
-- **Web & APIs:** REST APIs, JSON Parsing, GitHub Actions
+- **Web & APIs:** REST APIs, JSON Parsing, GitHub Actions AWS
 
 ### 📫 How to reach me:
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/ji-kim-289ab31b7/
