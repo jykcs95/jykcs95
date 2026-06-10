@@ -1,6 +1,6 @@
 # Hi there, I'm Ji👋
 
-I am a software developer currently focused on building and making a usable program for those in need
+I am a software developer currently focused on building and creating a program that impacts people directly.
 
 ### 🔭 Currently Working On
 - **Currently Working OnJob Tracker Dashboard** A full-stack distributed system built with Spring Boot, React, and Docker.
